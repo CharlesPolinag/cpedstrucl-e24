@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 	cout<<"Hello World"<<endl;
-	cpedstrcl
+	cpedstrucl
 	return 0;
 }
